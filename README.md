@@ -1,5 +1,5 @@
 # Haptikus pantográf keretprogram
-Készítette Honti Kristóf, a "Virtuális környezet fejlesztése kinesztetikus haptikus eszköz felhasználásával" című szakdolgozatának keretein belül, a BME MOGI Tanszéken.
+Készítette Riskutia Balázs a "Pantográf alapú kinesztetikus haptikus eszköz tervezése" című szakdolgozatának keretein belül, illetve Honti Kristóf a "Virtuális környezet fejlesztése kinesztetikus haptikus eszköz felhasználásával" című szakdolgozatának keretein belül, a BME MOGI Tanszéken.
 
 ## Bevezetés
 
